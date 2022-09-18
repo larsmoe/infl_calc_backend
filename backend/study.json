@@ -1,0 +1,534 @@
+{
+  "images": {
+    "ea2446bbc4d6d43ebb2859996b748ef29f567f63": {
+      "image": "images/tel_aviv/img_32.07935792156398,34.766770303535665.png",
+      "label": "Tel_Aviv",
+      "predict": "ead1e8f35d0988238fc169345d295091",
+      "explain": "3a2c6bb5d61efe5089bb00a89b0162af"
+    },
+    "b5155c0a6fa8ce3e811bbb0aa9aa619a713a64c3": {
+      "image": "images/berlin/img_52.5153566645913,13.297319396814103.png",
+      "label": "Berlin",
+      "predict": "b57f6a78527f1165c953e7e2568aaed6",
+      "explain": "248b641464140c57e99bddee1f507118"
+    },
+    "b5155c0a6fa8ce3e811bbb0aa9aa619a713a64c3": {
+      "image": "images/berlin/img_52.5153566645913,13.297319396814103.png",
+      "label": "Berlin",
+      "predict": "b57f6a78527f1165c953e7e2568aaed6",
+      "explain": "248b641464140c57e99bddee1f507118"
+    },
+    "4a4eeb69b9e62c0c3355d75b2f1bb50b67c163f1": {
+      "image": "images/tel_aviv/img_32.056395555288,34.759498779757266.png",
+      "label": "Tel_Aviv",
+      "predict": "fad95d5243c5ce41077cdd70d77cb5c",
+      "explain": "9a2f658e85949297228608a4015eb26a"
+    },
+    "b5155c0a6fa8ce3e811bbb0aa9aa619a713a64c3": {
+      "image": "images/berlin/img_52.5153566645913,13.297319396814103.png",
+      "label": "Berlin",
+      "predict": "b57f6a78527f1165c953e7e2568aaed6",
+      "explain": "248b641464140c57e99bddee1f507118"
+    },
+    "a46e40a11a43b08e1e5914aa3904d05c12f1a526": {
+      "image": "images/hamburg/img_53.54082438075271,9.984547743320332.png",
+      "label": "Hamburg",
+      "predict": "7fb62b8e3d69a7b3ce3c94806446acf1",
+      "explain": "ec1a2cd6519a6e2671292d02f1418483"
+    },
+    "c530f4574dc253cd9c57aebdb4ce00b2f651186e": {
+      "image": "images/tel_aviv/img_32.094653816404126,34.78982873631077.png",
+      "label": "Tel_Aviv",
+      "predict": "ce55aaac71c38e95d9ffa613404d653d",
+      "explain": "ced0239ff64c9511381e31932307e76a"
+    },
+    "22434dd0415b1ac4b92429cdde730958b5414785": {
+      "image": "images/hamburg/img_53.54338246899191,9.990179788661324.png",
+      "label": "Hamburg",
+      "predict": "fe71bf83c695c01fb06743a87bc55687",
+      "explain": "6674e889fe4e4a31ad79c82b341f517c"
+    },
+    "718fbe8750e50b0f762432eff38ba217d40caa56": {
+      "image": "images/jerusalem/img_31.774203845933084,35.2195904812914.png",
+      "label": "Westjerusalem",
+      "predict": "89bf005e704feee072957a8bd7034e00",
+      "explain": "c5e133f68b0b0451a220ec9a20038899"
+    },
+    "f0ee296ed5ca2d1978c06b859208a78d28897c2a": {
+      "image": "images/hamburg/img_53.5799578417973,9.991679793709748.png",
+      "label": "Hamburg",
+      "predict": "5b0d51e0278e2d635724a06807a5505d",
+      "explain": "5594c2067b7b8081f09deec3fc2ae758"
+    },
+    "4d74f5781355e9f6b2473d6abecb361e8edf4848": {
+      "image": "images/berlin/img_52.516195090672284,13.46070948256816.png",
+      "label": "Berlin",
+      "predict": "93137b04cd44e124f56399d223fa2a08",
+      "explain": "236be0194eb86f847fb75b7a93ce4dfc"
+    },
+    "42594ff8e6347da2c4d5aa6b7e80b9204ad79840": {
+      "image": "images/tel_aviv/img_32.096155244127246,34.78279207309533.png",
+      "label": "Tel_Aviv",
+      "predict": "c85ffc92de5413302e11b6a1c0b85ab0",
+      "explain": "5fa8e0945a661859c485afb137c7d329"
+    },
+    "d4a93be8c51b6572c92c00d4dcdb82cbff598d88": {
+      "image": "images/berlin/img_52.53953839493633,13.420393180338943.png",
+      "label": "Berlin",
+      "predict": "3cfebf423346091fee795844b735110a",
+      "explain": "3f2ae893cefa2e0f6084d17c0f88889b"
+    },
+    "16b3a5607f581f7ceb6bb4e675d81aec30532a40": {
+      "image": "images/tel_aviv/img_32.052418791416,34.78086630055244.png",
+      "label": "Tel_Aviv",
+      "predict": "f8c95c594f02a0249011352a07219da9",
+      "explain": "cad71afa89c262b96c066242e2fbab7"
+    },
+    "3f702edb43af01a2546bc47b304f24a0e43a1dc3": {
+      "image": "images/jerusalem/img_31.75662876285957,35.18736122564497.png",
+      "label": "Westjerusalem",
+      "predict": "3d17e9479ee58d68900cdab040a7dc11",
+      "explain": "1c1136d138883aa8e9d84176f8a2583f"
+    },
+    "30e6ca515ee4850c5eafbcd21ce7b5fc1234f829": {
+      "image": "images/hamburg/img_53.570106215418775,9.995917484653582.png",
+      "label": "Hamburg",
+      "predict": "da761076b628a5bb859c2976db66afee",
+      "explain": "3c81c95d6efe7c08996b533929b9c447"
+    },
+    "ce355c01b3a267b1464ae0ac28705ae8da374479": {
+      "image": "images/tel_aviv/img_32.09394464134417,34.771434413070985.png",
+      "label": "Tel_Aviv",
+      "predict": "cf9d44d445ed379899b4ee0ca1cf45fd",
+      "explain": "d098c084e06f4727e3c69ea8a6c902b9"
+    },
+    "a23b8401fbe4eb5f1ae09c4874cae223bbfb52ce": {
+      "image": "images/tel_aviv/img_32.09886195019458,34.775086937232835.png",
+      "label": "Tel_Aviv",
+      "predict": "cf9fd160529e411e230401f683b7ba7c",
+      "explain": "8b630fa4d798119e93a495609cba84e3"
+    },
+    "2ef72e42093ac677e5a56733316af172ec568081": {
+      "image": "images/tel_aviv/img_32.101399311575015,34.774399568641954.png",
+      "label": "Tel_Aviv",
+      "predict": "314df038a15f9a4dcdf0a0da5316ac4f",
+      "explain": "b1030bae823e4e2fa1a050aef43f8993"
+    },
+    "720bab28223082c1d0c8691037fa27b2e80b7a1a": {
+      "image": "images/tel_aviv/img_32.04708891415429,34.777919476561046.png",
+      "label": "Tel_Aviv",
+      "predict": "51eb21972895ffee61370b653a191a23",
+      "explain": "b3d75f0f4b247b844f8c33a85e3528ea"
+    },
+    "504045ad82bb16d6e268551abd4ab512b0e812c2": {
+      "image": "images/tel_aviv/img_32.079366134837436,34.78214940366892.png",
+      "label": "Tel_Aviv",
+      "predict": "4936a12100287649b77342c737675cb4",
+      "explain": "6049bd41853262b818575d285ff4a6db"
+    },
+    "4eb0a9106c4b5356fe5d4d882f3d03935526d032": {
+      "image": "images/tel_aviv/img_32.08436257098996,34.76824141111882.png",
+      "label": "Tel_Aviv",
+      "predict": "f5a62f2493466c8781c1e6cb5d323fe8",
+      "explain": "d7bf8d2e4245cbdf9d25c07a3e7a354f"
+    },
+    "c6e9eccad42853e1d4bc83b1dce59dc649818ebf": {
+      "image": "images/tel_aviv/img_32.083888945534575,34.7772217942773.png",
+      "label": "Tel_Aviv",
+      "predict": "fcf7f73404b1e7f26ef0ad3f2247af55",
+      "explain": "eb8378261c71ed2799b65ca8d90ab5b8"
+    },
+    "3f43bfd9d959268e95dfb037d3ec62043203ce31": {
+      "image": "images/tel_aviv/img_32.094405665959094,34.79415112652246.png",
+      "label": "Tel_Aviv",
+      "predict": "72a9af267e717c27bdb55f9d610c43b9",
+      "explain": "735c47f6f3942cc3f0817456000215ca"
+    },
+    "48393c1209b4cc0f2643a95be9a9aa02d54e85a6": {
+      "image": "images/tel_aviv/img_32.097989941022114,34.79529021924936.png",
+      "label": "Tel_Aviv",
+      "predict": "8d7e83bcbc330e08154069d7a4c2e370",
+      "explain": "79141091ced94c77db17de54426bda87"
+    },
+    "7bf8b26a8d7dfd84f20129280372da14f4ca1d5d": {
+      "image": "images/tel_aviv/img_32.084192279738,34.79515529949313.png",
+      "label": "Tel_Aviv",
+      "predict": "fc681f53b261c0f73c4eb8b47ca1aa5a",
+      "explain": "ff7839a3584805215cbe395dcecc9be2"
+    },
+    "cf8917e3a5caadbe9368fd92841f6cc2cff30739": {
+      "image": "images/tel_aviv/img_32.0750369189056,34.76673257925374.png",
+      "label": "Tel_Aviv",
+      "predict": "335bef07d5a15286047d785ba79efe90",
+      "explain": "2f3be1bfb5172efc704e9afdec14f807"
+    },
+    "7fbad4f5efdf3d4fb39c2b6c5c5fbcaee3f3d87f": {
+      "image": "images/tel_aviv/img_32.092900858638956,34.7961379405764.png",
+      "label": "Tel_Aviv",
+      "predict": "f92f66cd112995161b33704a03c81ea1",
+      "explain": "b613cb9ebc4559ed8e62e5715ad6bc3d"
+    },
+    "45d5ca3ce17fd6de59b803f474f78a879ddc5b9e": {
+      "image": "images/tel_aviv/img_32.094690153268196,34.79085639390303.png",
+      "label": "Tel_Aviv",
+      "predict": "d3677567bc6214e60f4c7ccb654e00fe",
+      "explain": "b55429f1be9f824bdd800990bb098258"
+    },
+    "ef22f6e6e2a1f052d2fa866e7d7c7f4be4405b31": {
+      "image": "images/tel_aviv/img_32.080942841676936,34.78125766808837.png",
+      "label": "Tel_Aviv",
+      "predict": "a97e4818edd79e7826a4f6254ad27a30",
+      "explain": "a6a0278e85f5817760b2ab3daba84113"
+    },
+    "c961f6603e5f783fa34b447ac498c0b693e3d705": {
+      "image": "images/tel_aviv/img_32.080274186761905,34.79495437427783.png",
+      "label": "Tel_Aviv",
+      "predict": "22b54ed81f34e31f60df5b959d3c56e8",
+      "explain": "c1d138cc258a39921cc1dfaa33a5b73e"
+    },
+    "c58c05607639ef91957d7a8527392e4f016d6b9f": {
+      "image": "images/tel_aviv/img_32.088651835282896,34.79525116234992.png",
+      "label": "Tel_Aviv",
+      "predict": "de79fa8f10bd3767625718aeb406a280",
+      "explain": "8191577cd5921aa03c8982b2d0ed1c41"
+    },
+    "d3da5c89ebb0df09653152dd2f3d85637f481638": {
+      "image": "images/tel_aviv/img_32.10103578323058,34.774240186498716.png",
+      "label": "Tel_Aviv",
+      "predict": "b4b59d1118b8e495465033fe20a6041f",
+      "explain": "97af414a4f9a9829e8591f9a351e30d1"
+    },
+    "c0c1ad1c968d75cafe32846f227e4742ecafced8": {
+      "image": "images/tel_aviv/img_32.090008247085,34.787228641337535.png",
+      "label": "Tel_Aviv",
+      "predict": "876c8284b0e7797594d6997c65cc41bb",
+      "explain": "d6cca2dbf42e484fac294909ec89e4d2"
+    },
+    "22251b5dc2c241a51781de588cb155a453b86409": {
+      "image": "images/tel_aviv/img_32.083514277514,34.770050114083936.png",
+      "label": "Tel_Aviv",
+      "predict": "ee995ac6d9793a2b783e04ffdb1c8dc3",
+      "explain": "f68a6c3a7e8a3c4e6012deddfa58a8e9"
+    },
+    "4d7789591d1a9692847bec9e3d8fbb010ec40572": {
+      "image": "images/jerusalem/img_31.780703350577813,35.21121812691856.png",
+      "label": "Westjerusalem",
+      "predict": "118cf36ef5aad05984a3802a00eaffe6",
+      "explain": "aef60c6d77ab7cc7d0a5342832156eba"
+    },
+    "9f2fab357a62a6adadf91a872b03794f0c739a93": {
+      "image": "images/jerusalem/img_31.7610201391976,35.19911084358193.png",
+      "label": "Westjerusalem",
+      "predict": "b2e272d5b0aef8bc2aadc57595bc1b33",
+      "explain": "fe79d49836c413e7addd689ba2954900"
+    },
+    "14914e9ddb40ac7b52a783e49367e2a4eb660d2f": {
+      "image": "images/jerusalem/img_31.775219074943653,35.213944391961924.png",
+      "label": "Westjerusalem",
+      "predict": "4100088b8b8f4127b149546c54608faf",
+      "explain": "35064a0930fd65303823f6bd276f673b"
+    },
+    "d79b85781f65657f283b40ef8be6c122271bcd75": {
+      "image": "images/jerusalem/img_31.790219750060697,35.20927765531002.png",
+      "label": "Westjerusalem",
+      "predict": "60b6b49b2baf77af9b3f4a602f017517",
+      "explain": "3c5ae2bf7b34be0d2a9b97dd3837eb9"
+    },
+    "28b37ffc3679ccd8e607e2e08c97617686fd1f11": {
+      "image": "images/jerusalem/img_31.788639150330326,35.21012533628983.png",
+      "label": "Westjerusalem",
+      "predict": "27449403e72f8919161f9efa3631ab3b",
+      "explain": "1e8baeb5cef3a229e9b2592ffb772c03"
+    },
+    "6dca038abd4571e8f5a509e5772c64a70e04a37a": {
+      "image": "images/jerusalem/img_31.791792904930112,35.217931641193026.png",
+      "label": "Westjerusalem",
+      "predict": "2609820a1352bf9e552cc047c0ad0e85",
+      "explain": "6324fa93716ab928b5c3b72b80107498"
+    },
+    "cf0442253474e3de44c52d40787a0a5f0d125247": {
+      "image": "images/jerusalem/img_31.776852780631476,35.205277310703806.png",
+      "label": "Westjerusalem",
+      "predict": "c4d5e8ce552fee5e3482a17b23f17320",
+      "explain": "157db19ff9e670722ce99de7a377e6b4"
+    },
+    "4e7413ba3df73f5fd3f972685eff8af12d0a7b47": {
+      "image": "images/jerusalem/img_31.787883935577916,35.21765752547119.png",
+      "label": "Westjerusalem",
+      "predict": "ac7513c95a4b0c543b6a9c00149634e2",
+      "explain": "7808899a46833ba6c658933b89b27116"
+    },
+    "ab3cec433ca3d16ad5c2b09dcea7b88330f43429": {
+      "image": "images/jerusalem/img_31.793769293878363,35.22246546559765.png",
+      "label": "Westjerusalem",
+      "predict": "a3786ce3a6592b8c237b95917cadb388",
+      "explain": "be38701672c8fd0edf8c5258e446b3fc"
+    },
+    "082eb341878187a3bc0c96ad09af55d58799f18c": {
+      "image": "images/jerusalem/img_31.790101260503175,35.20442617024697.png",
+      "label": "Westjerusalem",
+      "predict": "6c7654187f84185e3dafa1c9da181d4d",
+      "explain": "3d9d5afadd83b8b4919bf85660987258"
+    },
+    "05ae86466d6d367400307911723fd230cb8e3ca1": {
+      "image": "images/jerusalem/img_31.788054054205393,35.200252366399184.png",
+      "label": "Westjerusalem",
+      "predict": "61941d076f714843ad04fb6a2cac745f",
+      "explain": "aa14f0dc8bc0bc87014fbc6abc88ed5d"
+    },
+    "18665e33aaf12bd33241cb88e1467e9a06e1b7e9": {
+      "image": "images/jerusalem/img_31.74988122180178,35.20575870084679.png",
+      "label": "Westjerusalem",
+      "predict": "f50914aab2e4fd27b9fa958f471b0253",
+      "explain": "dd4818a4e8b62e041a16e9622c670efb"
+    },
+    "a679e26b1b4f7885762f6bb759a4a3dcde8bf858": {
+      "image": "images/jerusalem/img_31.780871141472513,35.21460224077932.png",
+      "label": "Westjerusalem",
+      "predict": "914b1a0f8e2afbc21388a22780216a80",
+      "explain": "db88160353f1170878bf20b23be49c99"
+    },
+    "a72b538ef1a7d9e06bf7acc9801dd59141fc691a": {
+      "image": "images/jerusalem/img_31.7802042620654,35.190827673402126.png",
+      "label": "Westjerusalem",
+      "predict": "c15a6a44090868cf88d51c37c14a7e9c",
+      "explain": "bfeca8a8a00781a254232c6909d77973"
+    },
+    "ab716b7bf317326876e30667c9f59ff01fbe5f8c": {
+      "image": "images/jerusalem/img_31.787559961894264,35.20288217038305.png",
+      "label": "Westjerusalem",
+      "predict": "adba6b4b7961a83cc8c7b5f80fba2ecf",
+      "explain": "1121c420736295f62cecbfe4ca78bad3"
+    },
+    "7fdbd6778f14f75ba87d4b08850f1e0b12efc413": {
+      "image": "images/jerusalem/img_31.75361681568204,35.21990650729525.png",
+      "label": "Westjerusalem",
+      "predict": "1857f288b18973725ed0e9bebaeb08e",
+      "explain": "51ea6e39e2c363e56651ce4f344a39bc"
+    },
+    "14bb23766f0c31519fed4c5f325aea6f36ba82c5": {
+      "image": "images/jerusalem/img_31.75217863663716,35.205538118920806.png",
+      "label": "Westjerusalem",
+      "predict": "e5d8cae9b1e639fd4e6825ee71b332e2",
+      "explain": "29e753b8454766d96b6dc8d371a77dd8"
+    },
+    "d3551caf04690ad0eee6b5c39cbe769af4c0159a": {
+      "image": "images/jerusalem/img_31.781934905362007,35.217351227842485.png",
+      "label": "Westjerusalem",
+      "predict": "8954c34f777dd3acf8634efa2e4a4ea6",
+      "explain": "cf3b5af41603d73c98c47424f20b05e8"
+    },
+    "269f1df87d2995f18a0afe752f7d8d98c08781ad": {
+      "image": "images/jerusalem/img_31.7764168613771,35.189981247682894.png",
+      "label": "Westjerusalem",
+      "predict": "1f0e495a7e1464e825abde06856d74b5",
+      "explain": "b2bdeb5a3fc5f37dbd95c39542c962f1"
+    },
+    "fe9c36967fe68168592f75c140cadf47ce66b47b": {
+      "image": "images/berlin/img_52.524964642684786,13.401522801536322.png",
+      "label": "Berlin",
+      "predict": "453b668d503b091ca1f6fde227019f68",
+      "explain": "1a5ed7a7025b6f1b3d3d6893447d4693"
+    },
+    "4142e86b7a2f23bc223de94074ef3920462ab16a": {
+      "image": "images/berlin/img_52.526613969227405,13.353217389234562.png",
+      "label": "Berlin",
+      "predict": "5f8c69a8aadadb55f5c91f14e69829d6",
+      "explain": "2add18bf14b8ef204d3fdfd38e377eb1"
+    },
+    "62bc63cc56a06cb9b9e0c31660f123d9cae1ab43": {
+      "image": "images/berlin/img_52.507626189937646,13.348438846602274.png",
+      "label": "Berlin",
+      "predict": "bd14c532323aacc20ab3b64f4c82963e",
+      "explain": "f24af1d77091801c7007f81115cfac2d"
+    },
+    "8bf8a8747692908b476211eb8698271bf7bce9f9": {
+      "image": "images/berlin/img_52.48315932963372,13.332685638361355.png",
+      "label": "Berlin",
+      "predict": "268da1350863f3af3a54d8a87a856bcb",
+      "explain": "d85ead08cf1ebc42bbb97880c04e9358"
+    },
+    "c299eb6baa8e599d5ce6a2fb719adee5bf8afd7d": {
+      "image": "images/berlin/img_52.519727702250876,13.412429744030751.png",
+      "label": "Berlin",
+      "predict": "c97ed918f01959ef49dba8159cc99be3",
+      "explain": "324eda9884fe6c9688daeb58e1c8b6fe"
+    },
+    "c84c1dee8a5428a892395a187e3bad1960167e42": {
+      "image": "images/berlin/img_52.539141269146214,13.369538801158543.png",
+      "label": "Berlin",
+      "predict": "50504f8fb8b928fba483dcd8a6820b8b",
+      "explain": "6d5775f480ffeeb896b0ab61e4e47457"
+    },
+    "2b31a0e2f21b918129f54e996fbf3434d8186958": {
+      "image": "images/berlin/img_52.46403144380842,13.416395535772295.png",
+      "label": "Berlin",
+      "predict": "5d72a5151526e53cc75e8ae27ac2a47c",
+      "explain": "2b0819b9bb08e31e9ab05faf0d77aa97"
+    },
+    "9b9c8c54b1737aaa99d2c2642c2e1173fa93ca27": {
+      "image": "images/berlin/img_52.539169282428894,13.400551323635876.png",
+      "label": "Berlin",
+      "predict": "5a0ca4b1244f974649efd181388f92f9",
+      "explain": "2636fed881187a7d7958f57e133f0b28"
+    },
+    "1408b881bb75b2981172f79be8032e3226e3079a": {
+      "image": "images/berlin/img_52.5162618627007,13.413671598132513.png",
+      "label": "Berlin",
+      "predict": "23e836e4f9c59d17a494885c40ed0b55",
+      "explain": "e74abf2267af29348382ba3f4c9dcdf2"
+    },
+    "875d1eeb82a4a7fd42d81261c48c3b8019a33f6c": {
+      "image": "images/berlin/img_52.53074185648505,13.40836639977166.png",
+      "label": "Berlin",
+      "predict": "1101c92c16a029a25c4d7d88d574ac2d",
+      "explain": "77a7a1cde70d08463ba5a3c3e57f66a2"
+    },
+    "7825c99f06521d0b5689edf617e71a7ddb8f8fc8": {
+      "image": "images/berlin/img_52.50883759622811,13.399016610988834.png",
+      "label": "Berlin",
+      "predict": "694690c51ce37d63e13ad64a7a84b222",
+      "explain": "e64f0bbcea26c67d81a35e0eb098a188"
+    },
+    "7e1eaadfe0d3db78b7796b522912c92bf4ebec3c": {
+      "image": "images/berlin/img_52.53464381348411,13.421024830960274.png",
+      "label": "Berlin",
+      "predict": "a2229b0a75042f8aba154726d43b7140",
+      "explain": "8495a7f59bcc3b9794e24fb295f277c5"
+    },
+    "dc9924d301a269b4d435cdcbdc53294ab4420c84": {
+      "image": "images/berlin/img_52.48041345560506,13.369729928966613.png",
+      "label": "Berlin",
+      "predict": "6197966ad38245f4d4a9dec3742bbcba",
+      "explain": "5276d8869b78c73672fecf7608fb5f57"
+    },
+    "2e880025b9cc1b41bb04c10a642c7899161e52b0": {
+      "image": "images/berlin/img_52.5399846106524,13.38212615411785.png",
+      "label": "Berlin",
+      "predict": "a7f7677f15a2002a7e281ccb6a12c781",
+      "explain": "8f6f2816f4f89375581eb495588f39c6"
+    },
+    "eaf228d257fd817b098c57d74432bed0b88e8e71": {
+      "image": "images/berlin/img_52.53636898325236,13.424707467609656.png",
+      "label": "Berlin",
+      "predict": "2785f9f41420621abe6ea496f558ac05",
+      "explain": "6b3ce400b41a2324c1ce1827f4c78d41"
+    },
+    "05343371a782388accac01ee2caf5cb3cc28d4a1": {
+      "image": "images/berlin/img_52.512198574023785,13.391350239100456.png",
+      "label": "Berlin",
+      "predict": "fba858371b35812cd03b82ff955588ce",
+      "explain": "83abae53f6f390603a476ddb106d7645"
+    },
+    "1de5dd01ee2d3b1f0d73f4f93129b60cc45adf9b": {
+      "image": "images/berlin/img_52.47885406785013,13.436139080305443.png",
+      "label": "Berlin",
+      "predict": "8216b44a9673db16b50fc41a609bd11",
+      "explain": "49efc900149ea4de7ccf3d1ea22ec19"
+    },
+    "be9d8db6f2efc70e7d97878fcbfab57e6f5cae01": {
+      "image": "images/berlin/img_52.5180244545065,13.465603352719636.png",
+      "label": "Berlin",
+      "predict": "1ce60883f34dab480d507487ac8da3f7",
+      "explain": "a610414c726f368cea7b6d1b4e3a041e"
+    },
+    "bbe65fe75007c92f4a63af4db81a572457a351d1": {
+      "image": "images/hamburg/img_53.551352585104055,10.066634820716015.png",
+      "label": "Hamburg",
+      "predict": "bf6254d5335e5798e9a6b6237a7cc1cf",
+      "explain": "7d5f03723e3690b265a1cb3036709840"
+    },
+    "a4a913bf71ed64f09b37c7a271629b8209aae5a5": {
+      "image": "images/hamburg/img_53.59271834847717,10.011734179431166.png",
+      "label": "Hamburg",
+      "predict": "2f4cf2a655e63c9e31de481087f1f407",
+      "explain": "c2142ca802ff22e9a5a70b6aa8b82cdf"
+    },
+    "0234149bd2dc555a3121a88997f2e92515d2f552": {
+      "image": "images/hamburg/img_53.580119237493015,10.060800474663164.png",
+      "label": "Hamburg",
+      "predict": "7df05bb5969367e43e231c0da67b4162",
+      "explain": "62b7c4c864e64b84bed21e448ffdde41"
+    },
+    "66a2ae33765d2e77848ba1c95af6294c0ab3347e": {
+      "image": "images/hamburg/img_53.546840400253444,10.00199295422426.png",
+      "label": "Hamburg",
+      "predict": "d3679c0aacffa4929229742bd57df47b",
+      "explain": "982446eef097d7519e84f4d8522b258a"
+    },
+    "eff0ee57e90dc8d86b4b83687835436ac8934f00": {
+      "image": "images/hamburg/img_53.54479970477401,9.990172776305107.png",
+      "label": "Hamburg",
+      "predict": "aa137f29d76713717fcf9e3097b583d1",
+      "explain": "99c77f715e0ba9ecefc9410592b061e4"
+    },
+    "a80c30f585c830a1c346e766611c1e3bf7f168ba": {
+      "image": "images/hamburg/img_53.5666765001101,10.067360113687835.png",
+      "label": "Hamburg",
+      "predict": "b5d5aa70c4bad05469578696527255c3",
+      "explain": "c16692540b3faa38d923e1c71ba02cfe"
+    },
+    "b36ae58c13b546d9e63a908c4b985d9e2ccafa6d": {
+      "image": "images/hamburg/img_53.522376533838525,9.931982721941807.png",
+      "label": "Hamburg",
+      "predict": "a4f862621d1d27b866f7fdc9525ec50e",
+      "explain": "40f0114e3fe4fd3fb893df04e5b909c3"
+    },
+    "eb14d66a6ca6980c1f3f2bca1d6e12507f73ca74": {
+      "image": "images/hamburg/img_53.578016686773374,10.047139149039293.png",
+      "label": "Hamburg",
+      "predict": "86b8d363bb53b62d5da05d89b82867bd",
+      "explain": "323f11ae57c2a18f108d8d64a2ec4d23"
+    },
+    "ba9e2f61d647b94d848d119f4843b4c6773d5190": {
+      "image": "images/hamburg/img_53.5503185316363,9.964129788406284.png",
+      "label": "Hamburg",
+      "predict": "b90146cff6beabbfad7fb81ae39cde0e",
+      "explain": "b0cc82e0b6a6bddd5845191686f06e13"
+    },
+    "d8a11e7415a22bf8b038b023ae0f0d88a29a60b0": {
+      "image": "images/hamburg/img_53.54706773969288,10.023612642218565.png",
+      "label": "Hamburg",
+      "predict": "99105f3d071c4d1d354a08128e798697",
+      "explain": "5ef371252a96cbd90042f9338e98dd66"
+    },
+    "533b74f038cfbd05a8b8a846b50b778abb69079b": {
+      "image": "images/hamburg/img_53.598798019822375,9.992929408086745.png",
+      "label": "Hamburg",
+      "predict": "345bae2176cad5aa3b0189677eeaa09b",
+      "explain": "5dbb38bf54948778c2b73072f7578323"
+    },
+    "61e17ed2e0ed47c3adbd07cbcac3d810ce228c10": {
+      "image": "images/hamburg/img_53.54611777752761,10.01648703544138.png",
+      "label": "Hamburg",
+      "predict": "9af0ae374c79e5c00bcf69f20e116572",
+      "explain": "73accadf631fe50ce38e249505d979e5"
+    },
+    "0ce185071dff84dc5e519b21acc1d7d267040484": {
+      "image": "images/hamburg/img_53.567253355021585,9.952729006367672.png",
+      "label": "Hamburg",
+      "predict": "6f5a08ee785138c6998cfa2b1471047a",
+      "explain": "52bec07f6a1389764a8bbbf536e37bbd"
+    },
+    "a83bb498078f3fe76d6e0e423113a1ad5922f4fc": {
+      "image": "images/hamburg/img_53.565184200073574,10.045043816428086.png",
+      "label": "Hamburg",
+      "predict": "dc0a639451c29aac2930c13eab2e119a",
+      "explain": "24b3d96d814624df7acc40fd6d8044d5"
+    },
+    "aa156088cd3152710c930cfb10ceeaa71c88521f": {
+      "image": "images/hamburg/img_53.566032760686106,10.0282410408949.png",
+      "label": "Hamburg",
+      "predict": "ab11c39ed700b2db304d799ca86ae8cd",
+      "explain": "ae81117156dc9eeb0412785fa9001542"
+    }
+  },
+  "controls": {
+    "d136f5319e503097c0b3b1023dce71efb8d7913f": {
+      "image": "images/controls/77_berlin-ortsschild.png",
+      "label": "Berlin",
+      "predict": "92ee3cf79ae11f400ec1c80c4dc864ef",
+      "explain": "8f3abf1f7a3276acf1ac24b2aeb427c7"
+    }
+  }
+}
